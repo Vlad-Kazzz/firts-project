@@ -1,0 +1,8 @@
+.block{
+    background-color: black;
+}
+
+.block__hello{
+    color: white;
+    font-weight: 600;
+}
